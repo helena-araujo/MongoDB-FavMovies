@@ -1,4 +1,4 @@
-# MongoDB-s13-FavMovies
+# MongoDB-FavMovies
 O **FavMovies** é um sistema de gerenciamento de catálogos de filmes dos estudios Marvel, Ghibli e Pixar. 
 
 Onde receberemos cadastros de títulos(filmes e séries) referenciando cada estúdio criador. 
